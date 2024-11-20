@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas!🤘
 
-Sou um Engenheiro de Analytics com conhecimento em Python, SQL, Power BI e ferramentas de dados da AWS, como Glue, Athena e QuickSight
+Sou um Engenheiro de Analytics com conhecimento em Python, SQL, Power BI e ferramentas de dados da AWS, como Glue, Athena e QuickSight.
 
 Minha jornada profissional tem sido focada na extração de valor de dados para impulsionar decisões estratégicas e otimizar processos. Com habilidades de Python e SQL, sou capaz de extrair e transformar dados com auxílio de serviços da AWS, como Glue e Athena. 
 
